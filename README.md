@@ -1,4 +1,5 @@
 # md_data_analysis
-- rmsd_pandas.ipynb: the analysis of all frames (skip 10)
-- rmsd_pandas_nrows=2700.ipynb: the frames are limited to 0-2700 (skip 10) for all the simulation
-- Projection_of_MD_on_ensemble_pca.ipynb: projection of MD data on PCA of XRD ensemble data
+- MD1_RMSD_mdtraj.ipynb: the RMSD analysis of MD_1 (skip 10)
+- MD2_RMSD_mdtraj.ipynb: the RMSD analysis of MD_2 (skip 10)
+- Projection_of_MD_on_ensemble_pca.ipynb: projection of MD_1 and MD_2 data on PCA of XRD ensemble data
+- Cluster analysis: Cluster analysis of MD_1 and MD_2	

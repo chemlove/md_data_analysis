@@ -1,0 +1,30 @@
+- Hydration: 
+	- open > close
+	- I,FI > WT,F
+- ECD_radius
+	- open < close
+	- pH70 > pH46
+- domain twist
+	- locally closed < open < close
+	- pH70 > pH46
+- M2_radius
+	- open >> close
+	- when open, WT,I > F,FI
+- beta_expansion
+	- open << close 
+- pore 240
+	- open >> close
+	- when open, WT,I > F,FI
+- pore 237
+	- open >> close
+	- when open, WT,I > F,FI
+	- when close, WT,I < F,FI
+- pore233
+	- open > locally close > close 
+	- I,FI > WT,F
+- helix tilt
+	- open << close
+	- when open, WT,I < F,FI
+- helix twist
+	- open >> close
+	- when open, WT,I > F,FI 

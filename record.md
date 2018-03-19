@@ -1,6 +1,6 @@
 - Hydration: 
 	- open > close
-	- I,FI > WT,F
+	- I > WT,FI > F
 - ECD_radius
 	- open < close
 	- pH70 > pH46

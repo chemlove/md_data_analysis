@@ -38,7 +38,7 @@
 
 ```
 ### Hydration Radius
-Hydration is defined as the number of water molecules within the constriction region of the TMD pore––a cylinder of radius 7 Å, centered at resid 230, within ±10 Å along principal axis z.
+Hydration is defined as the number of water molecules within the constriction region of the TMD pore––a cylinder of radius 7 Å, centered at resid 235, within ±12 Å along principal axis z.
 
 ### Domain Twist, Helix tilt, helix twist
 see http://stb.proteinart.net/en/latest/analysis.html
